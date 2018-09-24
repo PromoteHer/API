@@ -1,0 +1,28 @@
+{
+  "name": "promoteher-api",
+  "version": "1.0.0",
+  "description": "API for Promote Her service",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PromoteHer/API.git"
+  },
+  "author": "Jamie Poole <jamie.poole@me.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PromoteHer/API/issues"
+  },
+  "homepage": "https://github.com/PromoteHer/API#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.17",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0"
+  }
+}
